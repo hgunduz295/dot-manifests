@@ -33,4 +33,5 @@
   <!-- Extras -->
   <project name="dot-i9300/android_system_sepolicy" path="system/sepolicy" remote="github" revision="dot-o" />       
   <project name="dot-i9300/android_hardware_samsung" path="hardware/samsung" remote="github" revision="dot-o" />
+  <project name="dot-i9300/packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="master" />      
 </manifest>
