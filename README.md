@@ -1,21 +1,19 @@
 -----------------------------------------------------------------------------
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/Untitled-1.png" > 
-</p>
-<p >
-<img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/Untitled-3.png" > 
+<img src="https://github.com/DotOS/manifest/blob/dot-o/About.png" > 
 </p>
 
 -----------------------------------------------------------------------------
 Credits:
 =======
- * [**AOSP**](https://android.googlesource.com)
- * [**LineageOS**](https://github.com/LineageOS)
- * [**DirtyUnicorns**](https://github.com/dirtyunicorns)
- * [**AospExtended**](https://github.com/AospExtended)
- * [**PixelExperience**](https://github.com/PixelExperience)
+ * [**JDCTeam**](https://github.com/AOSP-JF-MM)
  * [**ABC**](https://github.com/ezio84?tab=repositories)
+ * [**DirtyUnicorns**](https://github.com/dirtyunicorns)
+ * [**LineageOS**](https://github.com/LineageOS)
+ * [**Nitrogen-Project**](https://github.com/nitrogen-project)
+ * [**AospExtended**](https://github.com/AospExtended)
+ * [**TeamSubstratum (Theme Engine)**](https://github.com/Substratum)
  * [**Shakthivel Nadar**](https://github.com/Sonic-sakthivel123) - Builder
  * [**Dan Santos**](https://github.com/linusdan) - Developer/Fork contribuitor of dotOS for i9300
  * [**Shilin Victor**](https://github.com/ChronoMonochrome) - Developer of Lineage 15.1/16.0 for i9300
@@ -30,8 +28,8 @@ To get started with the building process, you'll need to get familiar with [Git 
 To initialize your local repository, use a command like this:
 
 ```bash
-    repo init -u git://github.com/DotOS/manifest.git -b dot-p
-    git clone https://github.com/dot-i9300/dot-manifests.git -b dot-p-alpha .repo/local_manifests
+    repo init -u git://github.com/DotOS/manifest.git -b dot-o
+    git clone https://github.com/dot-i9300/dot-manifests.git -b dot-o .repo/local_manifests
 ```
 
 Then to sync up:
@@ -69,5 +67,5 @@ Some Links:-
 * [**Twitter**](https://twitter.com/dotosofficial)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/samgrande/manifest-1/dot-p/Untitled-4.png" > 
+<img src="https://github.com/DotOS/manifest/blob/dot-n/dotlogo.png" > 
 </p>
